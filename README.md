@@ -1,2 +1,2 @@
 # cloneInterfaceNotion
-Interface Notion React Native, expo e expo return
+Interface Notion, usando o  React Native, expo e expo return
